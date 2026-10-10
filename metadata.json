@@ -1,0 +1,6 @@
+{
+  "name": "Funscript Dancer",
+  "description": "基于节拍与音频特征的舞蹈动作与 Funscript 生成引擎，支持 Crop/Bounce/Fold 笔画越界策略及实时动效编舞。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
